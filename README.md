@@ -16,6 +16,6 @@ Laboratorios correspondientes a la Diplomatura en Ciencia de Datos, Aprendizaje 
 - 00: Predicción del tránsito en la Ciudad de Córdoba (Traffic Prediction)
 
 
-## Author
+## Autor
 
 EnzoRg
