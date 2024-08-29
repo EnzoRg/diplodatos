@@ -1,4 +1,4 @@
-# Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones 2024
+# Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones (FAMAF-UNC) - 2024
 
 Laboratorios correspondientes a la Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones de FAMAF-UNC del año 2024. El repositorio esta dividido en materias obligatorias, optativas y proyecto de mentoria: 
 
