@@ -1,10 +1,17 @@
 # Folders
 Data/
+Otros/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+# SQL
+*.sqlite3
+
+# .csv
+*.csv
 
 # C extensions
 *.so
