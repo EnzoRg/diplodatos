@@ -11,6 +11,12 @@ __pycache__/
 # SQL
 *.sqlite3
 
+# .zip
+*.zip
+
+# texto
+*.txt
+
 # .csv
 *.csv
 
