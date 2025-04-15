@@ -37,9 +37,10 @@ Laboratorios correspondientes a la [Diplomatura en Ciencia de Datos, Aprendizaje
 ## Proyecto de Mentoria
 9. Predicción del tránsito en la Ciudad de Córdoba (Traffic Prediction)
     - [Análisis y Visualización](/3_Mentoria/00_Parte_1.ipynb)
-    - [análisis exploratorio y curación de datos](/3_Mentoria/00_Parte_2.ipynb)
+    - [Análisis exploratorio y Curación de datos](/3_Mentoria/00_Parte_2.ipynb)
     - [Aprendizaje Supervisado](/3_Mentoria/00_Parte_3.ipynb)
-
+    - [Transformers para la predicción de series temporales](/3_Mentoria/etsformer_gpu.ipynb)
+    - [Presentacion](/3_Mentoria/Presentacion.pdf) [(Video)](https://diplodatos.famaf.unc.edu.ar/metodologia-y-modalidad-de-cursado/mentorias/mentorias-trabajos-finales-2024/m12-2024/)
 
 ## Autor
 
